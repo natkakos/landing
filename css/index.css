@@ -1,6 +1,10 @@
-
-
-h3 {
-    color: red;
+body {
+    background-color: rgba(212, 199, 178, 0.459);
 }
 
+h3 {
+    color: green;
+}
+p {
+    font-family: sans-serif;
+}
