@@ -11,16 +11,16 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-body {
-    padding-top: 94px;
-    margin: 10;
-    text-align: left;
-}
-
 .inf {
     color: #808080;
     font-family: 'Open Sans', sans-serif;
 }
+h2::hover {
+    text-decoration: underline;
+}
 
+img {   
+    display: block;
+}
 
 
