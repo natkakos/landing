@@ -1,0 +1,36 @@
+h1 {
+    color: #4d4d4d;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-size: 16px;
+    margin: 10;
+    display: block;
+    padding-top: 20px;
+
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 0 0 1em 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #808080;
+    margin: 15px;
+}
+
+.read-more {
+    text-align: center;
+}
+h4 {
+    background: #333333;
+    padding: 5px 10px 8px 10px;
+    text-align: center;
+    color: #f7f7f7;
+    margin: 0;
+    letter-spacing: 1px;
+}

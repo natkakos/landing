@@ -1,0 +1,29 @@
+.search {
+    background: #333333;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+.img-logo {
+    background-color:rgb(44, 120, 207) ;
+}
+.search__line {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #f2f2f2;
+}
+.header__nav {
+    text-align: center;
+}
+ 
+.search {
+    display: block;
+    margin: 10px 40px;
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    font-size: 13px;
+}
