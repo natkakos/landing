@@ -17,6 +17,8 @@
 .header-nav__menu {
     display: flex;
     flex-direction: row;
+    margin-left: 20px;
+    padding-top: 10px;
 }
 .header-nav__menu-item {
     text-decoration: none;
@@ -25,20 +27,9 @@
 .header-nav__menu-item:hover {
     text-decoration: underline;
 }
-
-.header__nav {
-           
-}
- 
 .search {
     font-size: 13px;
     display: flex;
     justify-content: space-around;
     font-family: 'Oswald', sans-serif;
-}
-
-@media (min-width: 500px); {
-    .header__nav {
-        display: flex;
-    }
 }

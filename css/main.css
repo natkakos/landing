@@ -41,3 +41,6 @@ h4 {
     flex-wrap: wrap;
     flex-direction: row;
 }
+.conteny__photo {
+    margin-top: -10px;
+}
