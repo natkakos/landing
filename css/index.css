@@ -4,13 +4,9 @@
 @import url(footer.css);
 
 
-
-
 body, html {
     background-color: rgb(255, 255, 255);
     width: 1170px;
-    padding-top: 94px;
-    margin: 10;
     text-align: left;
 }
 
