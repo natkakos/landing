@@ -1,11 +1,12 @@
+.img-logo {
+    background: url(../img/Olivers-Journal-blue.png);
+}
+
 .search {
     background: #333333;
     padding-top: 15px;
     padding-bottom: 15px;
-    
-}
-.img-logo {
-    background-color:rgb(44, 120, 207);
+      
 }
 .search__line {
     text-transform: uppercase;
